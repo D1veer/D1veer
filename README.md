@@ -9,7 +9,7 @@
 ### Languages and Tools <3
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://github.com/wwso)
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;" />](https://github.com/wwso)
+[<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />](https://github.com/diveer34)
 
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/wwso)
 [<img align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](https://github.com/wwso)
