@@ -7,7 +7,9 @@
 
 --- 
 
-
+<a href="https://discord.com/users/619340445692067890" target="_blank">
+    <img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/619340445692067890">
+</a>
 <!--
 **Yosefbesher/Yosefbesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
