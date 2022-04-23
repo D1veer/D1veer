@@ -1,4 +1,12 @@
-### Hi there 👋
+---
+
+
+ ### Visits <3<br>
+  <img src="https://profile-counter.glitch.me/diveer/count.svg" />
+
+
+--- 
+
 
 <!--
 **Yosefbesher/Yosefbesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
