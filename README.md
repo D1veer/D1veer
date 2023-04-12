@@ -9,7 +9,7 @@
 ### Languages and Tools <3
 
 <p>
- <a href="https://github.com/search?l=Python&q=user%3ADiveer1+&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white"></a>
+ <a href="https://github.com/search?l=Python&q=user%3ADiveer1+&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white"></a>
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://github.com/diveer34)
 [<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />](https://github.com/diveer34)
