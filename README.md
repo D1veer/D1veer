@@ -23,6 +23,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/My%20Website-blue?style=for-the-badge&logo=wise&logoColor=white&link=https%3A%2F%2Fdiveer.carrd.co%2F)
+<img alt="Static Badge" src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge&logo=wise&logoColor=white&link=https%3A%2F%2Fdiveer.carrd.co%2F">
 
 
 ---
