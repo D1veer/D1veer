@@ -5,6 +5,7 @@
   <img src="https://profile-counter.glitch.me/diveer/count.svg" />
  -->
 
+
 <!-- ---  -->
 # 👨‍💻 Programming Languages
 
@@ -19,6 +20,9 @@
   <a href="https://github.com/search?l=typescript&q=user%3ADiveer1+&type=Repositories"><img alt="Typescript" src="https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6"></a>
   <a href="https://github.com/search?l=html&q=user%3ADiveer1+&type=Repositories"><img alt="HTML5" src="https://img.shields.io/badge/-html5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26"></a>
   <a href="https://github.com/search?l=css&q=user%3ADiveer1+&type=Repositories"><img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white&color=1572B6"></a>
+
+
+![Static Badge](https://img.shields.io/badge/My%20Website-blue?style=for-the-badge&logo=wise&logoColor=white&link=https%3A%2F%2Fdiveer.carrd.co%2F)
 
 
 ---
